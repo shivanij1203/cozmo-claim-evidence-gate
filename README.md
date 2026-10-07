@@ -10,7 +10,7 @@ So this is a small experiment around that boundary. It is not an Xactimate integ
 
 ## What I tried
 
-The first version of the thought process was basically:
+My first pass was basically:
 
 `transcript + photos -> estimate`
 
@@ -29,7 +29,7 @@ The gate currently checks a few things that seemed easy to get wrong:
 
 The data is synthetic. There is no Cozmo, customer, carrier, or proprietary data in this repo.
 
-## The part I care about
+## What I was trying to figure out
 
 I don't think a model's confidence should be the permission to change a claim.
 
